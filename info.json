@@ -1,5 +1,5 @@
 {
   "version": "1.0_0",
-  "is_sure": "1",
+  "is_sure": true,
   "update_url": "https://gerstlix.com/forum_ext.zip"
 }
